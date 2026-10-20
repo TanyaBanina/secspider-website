@@ -41,18 +41,16 @@ The database holds around 2 million data points, so rendering charts directly fr
 
 <table> 
   <tr> 
-    <td><
-          img alt="CDF of DNSSEC zones chart" src="https://github.com/user-attachments/assets/9d691f63-5cd1-4d69-9ec7-8afd8f6d356f">
+    <td>
+        <img alt="CDF of DNSSEC zones chart" src="https://github.com/user-attachments/assets/9d691f63-5cd1-4d69-9ec7-8afd8f6d356f">
     </td> 
     <td>
       <img alt="Zone search" src="https://github.com/user-attachments/assets/093cbe94-bb47-40a0-b4ba-a7ed5ba4cd34">
     </td> 
   </tr> 
   <tr> 
-    <td align="center">Interactive chart on about 2 million data points
-    </td> 
-    <td align="center">Zone search with detail tabs
-    </td> 
+    <td align="center">Interactive chart on about 2 million data points</td> 
+    <td align="center">Zone search with detail tabs</td> 
   </tr> 
 </table> 
 <p> 

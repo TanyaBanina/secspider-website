@@ -53,10 +53,16 @@ The database holds around 2 million data points, so rendering charts directly fr
     <td align="center">Zone search with detail tabs</td> 
   </tr> 
 </table> 
-<p> 
-  <img height="320" alt="Poller map" src="https://github.com/user-attachments/assets/88d46d57-db8f-4425-90b3-8371535b929f"> 
-  <img height="320" alt="Mobile view" src="https://github.com/user-attachments/assets/d9b6d10b-16c8-4c94-98ad-e8d13a96a0e7"> 
-</p>
+<table>
+  <tr>
+    <td width="72%"><img width="100%" alt="Poller map" src="https://github.com/user-attachments/assets/88d46d57-db8f-4425-90b3-8371535b929f"></td>
+    <td width="28%"><img width="100%" alt="Mobile view" src="https://github.com/user-attachments/assets/d9b6d10b-16c8-4c94-98ad-e8d13a96a0e7"></td>
+  </tr>
+  <tr>
+    <td align="center">Poller map built with Leaflet</td>
+    <td align="center">Responsive mobile view</td>
+  </tr>
+</table>
 
 
 ## Tech stack
